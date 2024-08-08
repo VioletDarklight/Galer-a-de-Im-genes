@@ -9,6 +9,12 @@ body {
 
     background-color: rgb(255, 255, 165);
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: rgb(255, 255, 255);
+<<<<<<< HEAD
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+=======
+
+>>>>>>> 298716a58b142c2c4e15b3532875f2f2cfcee511
 }
 
 .image{
